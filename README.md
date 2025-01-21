@@ -1,3 +1,6 @@
+![1](https://github.com/user-attachments/assets/eb4cebb8-4560-46de-9c7c-8737399fb260)
+![2](https://github.com/user-attachments/assets/aec49f99-3208-4862-b9b9-e91c1014a0bf)
+
 Emergency Room Visits Analysis 🚑
 Analyzing emergency room visits to uncover patient trends, improve hospital operations, and optimize patient satisfaction.
 
